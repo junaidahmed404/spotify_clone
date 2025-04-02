@@ -1,0 +1,11 @@
+{
+    "albums": [
+      {
+        "folder": "ncs",
+        "title": "NoCopyrightSounds",
+        "description": "Best copyright-free music",
+        "cover": "songs/ncs/cover.jpg"
+      }
+    ]
+  }
+  
